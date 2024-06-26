@@ -1,0 +1,6 @@
+@ZemingoCMS.API_HostAddress = http://localhost:5220
+
+GET {{ZemingoCMS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
